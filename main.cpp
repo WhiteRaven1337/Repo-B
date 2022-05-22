@@ -6,15 +6,5 @@ using namespace std;
       cout << "Enter two numbers A and B: \n";
       cin >> a >> b;
       cout << "A + B = " << (a+b) << "\n";
-      cout << "A - B = " << (a-b) << "\n";
-      cout << "A * B = " << (a*b) << "\n";
-      cout << "A / B = " << (a/b) << "\n";
-      cout << "A % B = " << (a%b) << "\n";
-      cout << "A | B = " << (a|b) << "\n";
-      cout << "A ^ B = " << (a^b) << "\n";
-      cout << "A & B = " << (a&b) << "\n";
-      cout << "A << B = " << (a<<b) << "\n";
-      cout << "A >> B = " << (a>>b) << "\n";
-
       cin.get();
     }
