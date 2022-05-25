@@ -1,6 +1,7 @@
 #include<iostream>
 #include<std.h>
 using namespace std;
+// Программа явлется учебной
     int main() {
       int a, b;
       cout << "Enter two numbers A and B: \n";
